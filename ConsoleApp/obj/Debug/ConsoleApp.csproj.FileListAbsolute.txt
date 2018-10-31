@@ -1,0 +1,6 @@
+c:\users\ganap\documents\visual studio 2017\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\ganap\documents\visual studio 2017\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\ganap\documents\visual studio 2017\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\ganap\documents\visual studio 2017\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\ganap\documents\visual studio 2017\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\ganap\documents\visual studio 2017\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
